@@ -22,3 +22,10 @@ img{
     border: 5px solid white;
     width: 100%;
 }
+footer{
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: right;
+    margin-top: 140px;
+    font-size: 8px;
+}
